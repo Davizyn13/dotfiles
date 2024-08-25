@@ -1,0 +1,10 @@
+{
+    "parentMode": "user",
+    "colorScheme": "force-light",
+    "showWelcomeDialog": false,
+    "enabledExtensions": ["apps-menu@gnome-shell-extensions.gcampax.github.com", "places-menu@gnome-shell-extensions.gcampax.github.com", "launch-new-instance@gnome-shell-extensions.gcampax.github.com", "window-list@gnome-shell-extensions.gcampax.github.com"],
+    "panel": { "left": ["activities"],
+               "center": [],
+               "right": ["a11y", "keyboard", "dateMenu", "quickSettings"]
+             }
+}
